@@ -1,15 +1,17 @@
 
-# Hi, I'm Saksham Kamra 👋
+# 👋 Hi, I'm Saksham Kamra
 
 **Software Developer | AI & Backend Systems | Full-Stack Development**
 
 I'm a Computer Science and Engineering student at Manipal University Jaipur, interested in building practical software applications, AI-powered systems, and efficient backend solutions.
 
-- 🔭 Building **Vortex — Codebase Intelligence & GraphRAG Engine**
-- 🤖 Exploring RAG, GraphRAG, LLM applications, and multi-agent systems
-- ⚙️ Interested in backend engineering, system design, and software performance
-- 🤝 Open to collaborating on meaningful open-source and software engineering projects
-- 📫 Reach me at **[Email](mailto:sakshamkamra33@gmail.com)**
+- 🔭 **Currently building:** Vortex — Codebase Intelligence & GraphRAG Engine
+- 🤖 **Exploring:** RAG, GraphRAG, LLM applications, and multi-agent systems
+- ⚙️ **Interested in:** Backend engineering, system design, and software performance
+- 🤝 **Open to:** Meaningful open-source and software engineering collaborations
+- 📫 **Email:** [sakshamkamra33@gmail.com](mailto:sakshamkamra33@gmail.com)
+
+---
 
 ## 🌐 Connect With Me
 
@@ -25,9 +27,12 @@ I'm a Computer Science and Engineering student at Manipal University Jaipur, int
   </a>
 </p>
 
+---
+
 ## 🛠️ Technical Skills
 
-### Languages
+### 💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -38,18 +43,25 @@ I'm a Computer Science and Engineering student at Manipal University Jaipur, int
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### Backend & AI
+### ⚙️ Backend & APIs
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/WebSockets-333333?style=flat-square" alt="WebSockets"/>
+</p>
+
+### 🤖 AI & Retrieval Systems
+
+<p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/RAG_/_GraphRAG-6C47FF?style=flat-square" alt="RAG and GraphRAG"/>
 </p>
 
-### Frontend
+### 🎨 Frontend Development
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -59,7 +71,8 @@ I'm a Computer Science and Engineering student at Manipal University Jaipur, int
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand"/>
 </p>
 
-### Databases & Search
+### 🗄️ Databases & Search
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -69,7 +82,8 @@ I'm a Computer Science and Engineering student at Manipal University Jaipur, int
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-### Cloud, DevOps & Systems
+### ☁️ Cloud, DevOps & Systems
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
@@ -83,41 +97,61 @@ I'm a Computer Science and Engineering student at Manipal University Jaipur, int
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-### Testing & Quality
+### 🧪 Testing & Quality
+
 <p>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="Apache JMeter"/>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
-### 🔍 Vortex — Codebase Intelligence & GraphRAG Engine
-AI-powered codebase exploration using syntax-aware parsing, hybrid retrieval, and LLM-generated explanations.
-
-**Tech:** Python, FastAPI, LangGraph, Neo4j, Qdrant, Redis, Next.js
-
-[Repository](https://github.com/sakshamkamra33/vortex-codebase-intelligence) · [Live Demo](https://vortex-codebase-intelligence.vercel.app/)
-
 ### ⚡ Nexus — High-Performance FTP Engine
-A C++ FTP server supporting concurrent clients, efficient file transfers, and cross-platform networking.
 
-**Tech:** C++14, TCP/IP Sockets, POSIX, Win32, Docker, AWS EC2
+A high-performance FTP server built in C++14, supporting concurrent client connections, efficient file uploads and downloads, and cross-platform networking.
 
-[Explore my GitHub repositories](https://github.com/sakshamkamra33?tab=repositories)
+**Tech Stack:** C++14, TCP/IP Sockets, POSIX, Win32, Docker, AWS EC2, pytest
+
+- Implemented concurrent client handling using a fixed-size thread pool.
+- Used thread synchronization and zero-copy file transfer mechanisms.
+- Containerized and deployed the server, with integration tests for FTP operations.
+
+[📂 GitHub Repository](https://github.com/sakshamkamra33/nexus-ftp-engine)
+
+### 🔍 Vortex — Codebase Intelligence & GraphRAG Engine
+
+An AI-powered codebase exploration platform that helps developers understand source code and retrieve relevant code snippets using hybrid search and LLM-generated explanations.
+
+**Tech Stack:** Python, FastAPI, LangGraph, Neo4j, Qdrant, Redis, Next.js
+
+- Integrated syntax-aware code parsing and hybrid retrieval using vector and keyword search.
+- Implemented token-by-token response streaming using Server-Sent Events.
+- Added caching and Git-based synchronization to update changed code efficiently.
+
+[📂 GitHub Repository](https://github.com/sakshamkamra33/vortex-codebase-intelligence) · [🌐 Live Demo](https://vortex-codebase-intelligence.vercel.app/)
 
 ### 📁 Large-Scale Virtual Rendering System
-A file explorer designed to navigate large directory structures using DOM virtualization, lazy loading, and efficient data serialization.
 
-**Tech:** React, Node.js, MessagePack, DOM Virtualization
+A file explorer for navigating large hierarchical directory structures, designed to improve responsiveness through virtualization and efficient data handling.
 
-[Explore my GitHub repositories](https://github.com/sakshamkamra33?tab=repositories)
+**Tech Stack:** React, Node.js, DOM Virtualization, MessagePack, Binary Serialization
+
+- Implemented windowed DOM virtualization to render only visible directory elements.
+- Used lazy loading and hash-indexed node references for efficient navigation.
+- Integrated binary serialization and Node.js streaming for incremental data processing.
+
+[📂 Explore GitHub Repositories](https://github.com/sakshamkamra33?tab=repositories)
+
+---
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=sakshamkamra33&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=sakshamkamra33&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=sakshamkamra33&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=sakshamkamra33&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
